@@ -12,7 +12,7 @@ Visit [`badssl.com`](https://badssl.com/) for a list of test subdomains, includi
 
 ## Server Setup
 
-Stock Ubuntu VM, DNS A records for `badssl.com.` and `*.badssl.com.` pointing to the VM.
+Stock Ubuntu VM, and DNS A records for `badssl.com.` and `*.badssl.com.` pointing to the VM.
 
 ### Testing and development
 
